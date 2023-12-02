@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning Python, Machine Learning, Databases, Google Cloud
 <h2>👨‍💻 Certifications and Projects:</h2>
 
+- <b>November Oracle Cloud Infrastructure Foundations</b>
+  - [Certified Coursera Certificate](https://coursera.org/share/7c11c1c1133dab161765a6b285a39f26)
+  - [eCertificate.pdf](https://github.com/draytonhughes/draytonhughes/files/13537381/eCertificate.pdf)
+
+
 - <b>November 2023 Data Warehousing with Oracle: Design a Database</b>
   - [Certified Coursera Certificate](https://coursera.org/share/ac4ba161ef49a33ddd911edf372f0b99)
 
