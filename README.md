@@ -1,7 +1,7 @@
 <h1>Hi, I'm Drayton! </h1>
 
-- 🔭 I’m currently working on more certifications and landing a new job
-- 🌱 I’m currently learning Python, Machine Learning, Databases, Google Cloud
+- 🔭 I’m currently working on learning more and advancing in the IT field.
+- 🌱 I’m currently learning Cyber Security.
 <h2>👨‍💻 Certifications and Projects:</h2>
 
 - <b>November 2023 Oracle Cloud Infrastructure Foundations</b>
